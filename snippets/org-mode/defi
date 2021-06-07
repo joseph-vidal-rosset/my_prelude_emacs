@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: defi
+# key: <defi
+# --
+#+begin_defi
+$0
+#+end_defi

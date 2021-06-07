@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: coro
+# key: <coro
+# --
+#+begin_coro
+$0
+#+end_coro

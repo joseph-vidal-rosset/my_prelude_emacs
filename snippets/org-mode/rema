@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rema
+# key: <rema
+# --
+#+begin_rema
+$0
+#+end_rema

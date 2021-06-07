@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: exem
+# key: <exem
+# --
+#+begin_exem
+$0
+#+end_exem
